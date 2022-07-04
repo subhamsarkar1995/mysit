@@ -1,0 +1,146 @@
+header{
+  color: #4099CC;
+  background-color: #AEDBCE;
+  margin: 0px;
+}
+h1{
+
+  font-family: "Fascinate",cursive;
+  color: #55967A;
+
+  margin-top: -1px;
+  padding-top: 145px;
+}
+h2{
+  text-align: center;
+  color: #55967A;
+}
+.top-cloud{
+ position: absolute;
+ right: 340px;
+ top: 30px;
+
+
+}
+body{
+text-align: center;
+  margin: 0;
+text-align: center;
+font-family: 'Merriweather', serif;
+color: #40514E;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 331px;
+  top: 286px;
+}
+section{
+  margin: 0px;
+  text-align: center;
+}
+div{
+  text-align: center;
+}
+h3{
+  color: #125A86;
+  text-align: center;
+  margin top: 30px;
+  padding-bottom: 20px;
+  font-family: "Fascinate",cursive;
+}
+.Skills{
+  text-align: center;
+}
+.interest{
+  padding-right: 549px;
+  padding-left: 522px;
+}
+.math{
+  padding-right: 727px;
+  padding-left: 397px;
+}
+.Mathematics{
+  margin-left: -306px;
+}
+p{
+  text-align: center;
+  color: #125A86;
+  margin-bottom: 200px;
+  padding-top: 5px;
+}
+.Inroduction{
+  padding-top: 20px;
+  padding-right: 344px;
+  padding-left: 351px;
+}
+a{
+  padding-top: 5px;
+}
+.skill-pic1{
+  float: left;
+  margin: 0;
+  position: absolute;
+  left: 265px;
+}
+.calculator{
+  float: right;
+  right:  510px;
+  position: absolute;
+}
+.climbing{
+  float: left;
+  position: absolute;
+  right: 393px;
+}
+.Trecking{
+  padding-right: 727px;
+  padding-left: 397px;
+}
+.rock{
+  margin-left: -307px;
+}
+.testbutton{
+  margin-bottom: : 0px;
+  padding-top: : 200px;
+}
+.connected{
+  padding-right: 536px;
+  padding-left: 527px;
+  margin-bottom:  33px;
+}
+.personalized{
+  padding-right: 536px;
+  padding-left: 527px;
+}
+.buttonClass {
+  font-size:17px;
+  font-family:Arial;
+  width:111px;
+  height:26px;
+  border-width:1px;
+  color:#3a8a9e;
+  border-color:#d6bcd6;
+  font-weight:bold;
+  border-top-left-radius:15px;
+  border-top-right-radius:15px;
+  border-bottom-left-radius:15px;
+  border-bottom-right-radius:15px;
+  box-shadow: 3px 4px 0px 0px #899599;
+  text-shadow: 0px 1px 0px #e1e2ed;
+  background:linear-gradient(#ededed, #bab1ba);
+}
+
+.buttonClass:hover {
+  background: linear-gradient(#bab1ba, #ededed);
+}
+
+.buttonClass:hover {
+  background: linear-gradient(#bab1ba, #ededed);
+}
+footer{
+   text-align: center;
+   background-color: #66BFBF;
+   margin: 0px;
+   padding: 20px;
+   margin-bottom: 20px;
+}
